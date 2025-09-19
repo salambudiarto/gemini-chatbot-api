@@ -485,12 +485,11 @@ Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE](LICENSE) unt
 ## 📞 Dukungan
 
 Untuk pertanyaan, bug report, atau saran:
-- **Email**: support@example.com
+- **Email**: salambudiarto@gmail.com
 - **Issues**: Buka issue di repository ini
-- **Documentation**: Lihat dokumentasi lengkap di `/docs`
-
+- **[WhatsApp Group](https://chat.whatsapp.com/LbIhC6jsPoo7Y69xgpZ0AN)**
 ---
 
 **Dibuat dengan ❤️ untuk para pecinta kopi di mana saja** ☕
 
-*Terakhir diupdate: Januari 2024*
+*Terakhir diupdate: Jum'at, 19 September 2025 23:05*
