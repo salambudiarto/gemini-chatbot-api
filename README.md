@@ -4,8 +4,6 @@ Aplikasi chatbot modern dan responsif yang didukung oleh Google Gemini AI, diran
 
 ## 🌟 Demo Langsung
 
-**[Coba Demo Langsung](https://cbt-fp-htv8-w6-s5.arto.biz.id/)**
-
 ## 📋 Daftar Isi
 
 - [Fitur Utama](#fitur-utama)
